@@ -1,0 +1,13 @@
+/* ShoesImg.css */
+
+/* Style for the label */
+label {
+    font-size: 14px;
+    font-weight: bold;
+  }
+  
+  /* Style for the zoom effect on hover */
+  .group:hover img {
+    transform: scale(1.1);
+  }
+  
